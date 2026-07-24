@@ -1,0 +1,7 @@
+{
+  "name": "United Charter School",
+  "description": "Official Parent & Student Portal for The United Charter School - A Project of Beaconhouse, Bahawalnagar Campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
